@@ -13,11 +13,11 @@
       "username": "david5_fields59998"
     },
     {
-      "activated": "2025-09-22T08:00:00.000Z",
+      "activated": "2025-09-22T08:05:55Z",
       "created": "2025-09-22T08:00:00.000Z",
       "current_uses": 0,
       "expires": "2025-09-25T08:00:00.000Z",
-      "hwid": "",
+      "hwid": "14675496259216686639",
       "key": "3DAY-48MZJ-LB053-EFF9Z",
       "license_type": "3day",
       "max_uses": 1,
@@ -25,11 +25,11 @@
       "username": "javck0220"
     },
     {
-      "activated": "2025-09-22T08:04:21Z",
+      "activated": "2025-09-22T08:00:00.000Z",
       "created": "2025-09-22T08:00:00.000Z",
       "current_uses": 0,
       "expires": "2026-09-22T08:00:00.000Z",
-      "hwid": "14675496259216686639",
+      "hwid": "",
       "key": "Dev",
       "license_type": "1year",
       "max_uses": 1,
@@ -38,7 +38,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2025-09-22T08:04:21Z",
+    "last_updated": "2025-09-22T08:05:55Z",
     "version": "1.0"
   },
   "signature": "placeholder-signature-here"
