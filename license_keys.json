@@ -13,11 +13,11 @@
       "username": "david5_fields59998"
     },
     {
-      "activated": "2025-09-22T08:05:55Z",
+      "activated": "2025-09-22T10:57:34Z",
       "created": "2025-09-22T08:00:00.000Z",
       "current_uses": 0,
       "expires": "2025-09-25T08:00:00.000Z",
-      "hwid": "",
+      "hwid": "14675496259216686639",
       "key": "3DAY-48MZJ-LB053-EFF9Z",
       "license_type": "3day",
       "max_uses": 1,
@@ -38,7 +38,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2025-09-22T08:05:55Z",
+    "last_updated": "2025-09-22T10:57:34Z",
     "version": "1.0"
   },
   "signature": "placeholder-signature-here"
