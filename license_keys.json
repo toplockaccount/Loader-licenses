@@ -23,6 +23,18 @@
       "max_uses": 1,
       "status": "active",
       "username": "test"
+    },
+    {
+      "key": "Dev",
+      "status": "active",
+      "license_type": "3day",
+      "expires": "2025-09-24T14:58:00",
+      "hwid": "",
+      "activated": "2025-09-22T14:58:00",
+      "created": "2025-09-22T14:58:49.400528",
+      "current_uses": 0,
+      "max_uses": 1,
+      "username": "test"
     }
   ],
   "metadata": {
