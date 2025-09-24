@@ -23,6 +23,30 @@
       "max_uses": 1,
       "status": "active",
       "username": "cpu"
+    },
+    {
+      "activated": "2025-09-24T02:41:00.000Z",
+      "created": "2025-09-24T02:41:00.000Z",
+      "current_uses": 0,
+      "expires": "2025-09-27T02:41:00.000Z",
+      "hwid": "",
+      "key": "3DAY-NUYGB-ZCYWW-64MZI",
+      "license_type": "3day",
+      "max_uses": 1,
+      "status": "active",
+      "username": "User 1"
+    },
+    {
+      "activated": "2025-09-24T02:43:00.000Z",
+      "created": "2025-09-24T02:43:00.000Z",
+      "current_uses": 0,
+      "expires": "2025-09-27T02:43:00.000Z",
+      "hwid": "",
+      "key": "3DAY-3STXB-O7QFX-90PEF",
+      "license_type": "3day",
+      "max_uses": 1,
+      "status": "active",
+      "username": "User 2"
     }
   ],
   "metadata": {
