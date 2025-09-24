@@ -47,6 +47,18 @@
       "max_uses": 1,
       "status": "active",
       "username": "User 2"
+    },
+    {
+      "activated": "2025-09-24T08:08:00.000Z",
+      "created": "2025-09-24T08:08:00.000Z",
+      "current_uses": 0,
+      "expires": "2025-09-27T08:08:00.000Z",
+      "hwid": "",
+      "key": "3DAY-G16BO-DZWQX-ONLST",
+      "license_type": "3day",
+      "max_uses": 1,
+      "status": "active",
+      "username": "User 3"
     }
   ],
   "metadata": {
