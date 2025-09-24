@@ -13,11 +13,11 @@
       "username": "Admin"
     },
     {
-      "activated": "2025-09-24T01:51:00.000Z",
+      "activated": "2025-09-24T02:04:53Z",
       "created": "2025-09-24T01:51:00.000Z",
       "current_uses": 0,
       "expires": "2026-09-24T01:51:00.000Z",
-      "hwid": "",
+      "hwid": "14675496259216686639",
       "key": "1YEAR-DIYVJ-5OQKM-JE7SD",
       "license_type": "1year",
       "max_uses": 1,
@@ -26,7 +26,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2025-09-23T11:24:03Z",
+    "last_updated": "2025-09-24T02:04:53Z",
     "version": "1.0"
   },
   "signature": "placeholder-signature-here"
