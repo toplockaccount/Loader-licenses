@@ -25,11 +25,11 @@
       "username": "cpu"
     },
     {
-      "activated": "2025-09-24T02:41:00.000Z",
+      "activated": "2025-09-25T04:37:27Z",
       "created": "2025-09-24T02:41:00.000Z",
       "current_uses": 0,
       "expires": "2025-09-27T02:41:00.000Z",
-      "hwid": "",
+      "hwid": "18421539780293359346",
       "key": "3DAY-NUYGB-ZCYWW-64MZI",
       "license_type": "3day",
       "max_uses": 1,
@@ -62,7 +62,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2025-09-24T02:04:53Z",
+    "last_updated": "2025-09-25T04:37:27Z",
     "version": "1.0"
   },
   "signature": "placeholder-signature-here"
