@@ -37,11 +37,11 @@
       "username": "User Free 2"
     },
     {
-      "activated": "2025-09-27T14:30:00.000Z",
+      "activated": "2025-09-28T13:47:04Z",
       "created": "2025-09-27T14:30:00.000Z",
       "current_uses": 0,
       "expires": "2025-09-30T14:30:00.000Z",
-      "hwid": "",
+      "hwid": "3144713279519504766",
       "key": "3DAY-T1K6L-MW4LE-JAD5Z",
       "license_type": "3day",
       "max_uses": 1,
@@ -50,7 +50,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2025-09-28T06:39:59Z",
+    "last_updated": "2025-09-28T13:47:04Z",
     "version": "1.0"
   },
   "signature": "placeholder-signature-here"
