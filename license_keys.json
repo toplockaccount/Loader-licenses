@@ -24,12 +24,12 @@
       "status": "active",
       "username": "cpu"
     },
-{
-      "activated": "2025-09-27T14:30:00.000Z",
+    {
+      "activated": "2025-09-28T02:15:59Z",
       "created": "2025-09-27T14:30:00.000Z",
       "current_uses": 0,
       "expires": "2025-09-30T14:30:00.000Z",
-      "hwid": "",
+      "hwid": "5899707893422137633",
       "key": "3DAY-NWVXI-1N6VL-2TBX4",
       "license_type": "3day",
       "max_uses": 1,
@@ -62,7 +62,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2025-09-25T04:37:27Z",
+    "last_updated": "2025-09-28T02:15:59Z",
     "version": "1.0"
   },
   "signature": "placeholder-signature-here"
