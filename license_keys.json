@@ -13,18 +13,6 @@
       "username": "Admin"
     },
     {
-      "activated": "2025-09-24T02:04:53Z",
-      "created": "2025-09-24T01:51:00.000Z",
-      "current_uses": 0,
-      "expires": "2026-09-24T01:51:00.000Z",
-      "hwid": "",
-      "key": "1YEAR-DIYVJ-5OQKM-JE7SD",
-      "license_type": "1year",
-      "max_uses": 1,
-      "status": "active",
-      "username": "cpu"
-    },
-    {
       "activated": "2025-09-28T06:39:59Z",
       "created": "2025-09-27T14:30:00.000Z",
       "current_uses": 0,
