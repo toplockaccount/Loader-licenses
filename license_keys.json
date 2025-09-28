@@ -1,69 +1,69 @@
 {
-  "licenses": [
-    {
-      "activated": "2025-09-23T11:24:03Z",
-      "created": "2025-09-22T08:00:00.000Z",
-      "current_uses": 0,
-      "expires": "2026-09-22T08:00:00.000Z",
-      "hwid": "14675496259216686639",
-      "key": "Dev",
-      "license_type": "1year",
-      "max_uses": 1,
-      "status": "active",
-      "username": "Admin"
+    "licenses": [
+        {
+            "activated": "2025-09-23T11:24:03Z",
+            "created": "2025-09-22T08:00:00.000Z",
+            "current_uses": 0,
+            "expires": "2026-09-22T08:00:00.000Z",
+            "hwid": "14675496259216686639",
+            "key": "Dev",
+            "license_type": "1year",
+            "max_uses": 1,
+            "status": "active",
+            "username": "Admin"
+        },
+        {
+            "activated": "2025-09-24T02:04:53Z",
+            "created": "2025-09-24T01:51:00.000Z",
+            "current_uses": 0,
+            "expires": "2026-09-24T01:51:00.000Z",
+            "hwid": "",
+            "key": "1YEAR-DIYVJ-5OQKM-JE7SD",
+            "license_type": "1year",
+            "max_uses": 1,
+            "status": "active",
+            "username": "cpu"
+        },
+        {
+            "activated": "2025-09-28T02:15:59Z",
+            "created": "2025-09-27T14:30:00.000Z",
+            "current_uses": 0,
+            "expires": "2025-09-30T14:30:00.000Z",
+            "hwid": "",
+            "key": "3DAY-NWVXI-1N6VL-2TBX4",
+            "license_type": "3day",
+            "max_uses": 1,
+            "status": "active",
+            "username": "User Free 1"
+        },
+        {
+            "activated": "2025-09-27T14:30:00.000Z",
+            "created": "2025-09-27T14:30:00.000Z",
+            "current_uses": 0,
+            "expires": "2025-09-30T14:30:00.000Z",
+            "hwid": "",
+            "key": "3DAY-F4CQ4-LB855-V5TLM",
+            "license_type": "3day",
+            "max_uses": 1,
+            "status": "active",
+            "username": "User Free 2"
+        },
+        {
+            "activated": "2025-09-27T14:30:00.000Z",
+            "created": "2025-09-27T14:30:00.000Z",
+            "current_uses": 0,
+            "expires": "2025-09-30T14:30:00.000Z",
+            "hwid": "",
+            "key": "3DAY-T1K6L-MW4LE-JAD5Z",
+            "license_type": "3day",
+            "max_uses": 1,
+            "status": "active",
+            "username": "User Free 3"
+        }
+    ],
+    "metadata": {
+        "last_updated": "2025-09-28T06:36:04.384628Z",
+        "version": "1.0"
     },
-    {
-      "activated": "2025-09-24T02:04:53Z",
-      "created": "2025-09-24T01:51:00.000Z",
-      "current_uses": 0,
-      "expires": "2026-09-24T01:51:00.000Z",
-      "hwid": "",
-      "key": "1YEAR-DIYVJ-5OQKM-JE7SD",
-      "license_type": "1year",
-      "max_uses": 1,
-      "status": "active",
-      "username": "cpu"
-    },
-    {
-      "activated": "2025-09-28T02:15:59Z",
-      "created": "2025-09-27T14:30:00.000Z",
-      "current_uses": 0,
-      "expires": "2025-09-30T14:30:00.000Z",
-      "hwid": "5899707893422137633",
-      "key": "3DAY-NWVXI-1N6VL-2TBX4",
-      "license_type": "3day",
-      "max_uses": 1,
-      "status": "active",
-      "username": "User Free 1"
-    },
-    {
-      "activated": "2025-09-27T14:30:00.000Z",
-      "created": "2025-09-27T14:30:00.000Z",
-      "current_uses": 0,
-      "expires": "2025-09-30T14:30:00.000Z",
-      "hwid": "",
-      "key": "3DAY-F4CQ4-LB855-V5TLM",
-      "license_type": "3day",
-      "max_uses": 1,
-      "status": "active",
-      "username": "User Free 2"
-    },
-    {
-      "activated": "2025-09-27T14:30:00.000Z",
-      "created": "2025-09-27T14:30:00.000Z",
-      "current_uses": 0,
-      "expires": "2025-09-30T14:30:00.000Z",
-      "hwid": "",
-      "key": "3DAY-T1K6L-MW4LE-JAD5Z",
-      "license_type": "3day",
-      "max_uses": 1,
-      "status": "active",
-      "username": "User Free 3"
-    }
-  ],
-  "metadata": {
-    "last_updated": "2025-09-28T02:15:59Z",
-    "version": "1.0"
-  },
-  "signature": "placeholder-signature-here"
+    "signature": "placeholder-signature-here"
 }
