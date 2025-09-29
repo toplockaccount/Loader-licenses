@@ -47,6 +47,18 @@
             "max_uses": 1,
             "status": "active",
             "username": "User Free 3"
+        },
+        {
+            "activated": "2025-09-29T06:11:00.000Z",
+            "created": "2025-09-29T06:11:00.000Z",
+            "current_uses": 0,
+            "expires": "2026-09-29T06:11:00.000Z",
+            "hwid": "",
+            "key": "Admin",
+            "license_type": "1year",
+            "max_uses": 1,
+            "status": "active",
+            "username": "sw1ftsys"
         }
     ],
     "metadata": {
