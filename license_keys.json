@@ -71,22 +71,10 @@
             "max_uses": 1,
             "status": "active",
             "username": "sw1ftsys"
-        },
-        {
-            "activated": "2025-09-29T15:18:00Z",
-            "created": "2025-09-29T08:18:26.000Z",
-            "current_uses": 0,
-            "expires": "2025-10-02T15:18:00.000Z",
-            "hwid": "",
-            "key": "3DAY-A0LPQ-SZWUN-3E61N",
-            "license_type": "3day",
-            "max_uses": 1,
-            "status": "active",
-            "username": "test"
         }
     ],
     "metadata": {
-        "last_updated": "2025-09-29T08:18:28.034704Z",
+        "last_updated": "2025-09-29T08:18:52.495758Z",
         "version": "1.0"
     },
     "signature": "placeholder-signature-here"
