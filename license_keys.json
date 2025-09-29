@@ -71,10 +71,22 @@
             "max_uses": 1,
             "status": "active",
             "username": "sw1ftsys"
+        },
+        {
+            "activated": "2025-09-29T14:11:00Z",
+            "created": "2025-09-29T07:11:35.295599.000Z",
+            "current_uses": 0,
+            "expires": "2025-10-02T14:11:00.000Z",
+            "hwid": "",
+            "key": "AADKX-QUPWY-JX31L-EUGEO",
+            "license_type": "3day",
+            "max_uses": 1,
+            "status": "active",
+            "username": "tobieralonso"
         }
     ],
     "metadata": {
-        "last_updated": "2025-09-29T06:57:17.421380Z",
+        "last_updated": "2025-09-29T07:11:36.846093Z",
         "version": "1.0"
     },
     "signature": "placeholder-signature-here"
