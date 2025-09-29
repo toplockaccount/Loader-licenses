@@ -72,18 +72,6 @@
             "status": "active",
             "username": "sw1ftsys"
         },
-        {
-            "activated": "2025-09-29T06:57:16.375450Z",
-            "created": "2025-09-29T06:57:16.375450.000Z",
-            "current_uses": 0,
-            "expires": "2025-10-02T06:57:16.375450.000Z",
-            "hwid": "",
-            "key": "NXVM7-9WVBP-ZXLT4-3O10H",
-            "license_type": "3day",
-            "max_uses": 1,
-            "status": "active",
-            "username": "Amarin"
-        }
     ],
     "metadata": {
         "last_updated": "2025-09-29T06:57:17.421380Z",
