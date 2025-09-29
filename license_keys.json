@@ -71,22 +71,10 @@
             "max_uses": 1,
             "status": "active",
             "username": "sw1ftsys"
-        },
-        {
-            "activated": "2025-09-29T14:45:00Z",
-            "created": "2025-09-29T07:45:30.000Z",
-            "current_uses": 0,
-            "expires": "2025-10-02T14:45:00.000Z",
-            "hwid": "",
-            "key": "3DAY-X8765-F88FF-GDCKI",
-            "license_type": "3day",
-            "max_uses": 1,
-            "status": "active",
-            "username": "tobieralonso"
         }
     ],
     "metadata": {
-        "last_updated": "2025-09-29T07:45:31.057015Z",
+        "last_updated": "2025-09-29T07:45:48.941130Z",
         "version": "1.0"
     },
     "signature": "placeholder-signature-here"
