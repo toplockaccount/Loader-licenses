@@ -71,22 +71,10 @@
             "max_uses": 1,
             "status": "active",
             "username": "sw1ftsys"
-        },
-        {
-            "activated": "2025-09-29T14:11:00Z",
-            "created": "2025-09-29T07:11:39.003250.000Z",
-            "current_uses": 0,
-            "expires": "2025-10-02T14:11:00.000Z",
-            "hwid": "",
-            "key": "F36X1-5IP5L-UV89V-H2B2P",
-            "license_type": "3day",
-            "max_uses": 1,
-            "status": "active",
-            "username": "tobieralonso"
         }
     ],
     "metadata": {
-        "last_updated": "2025-09-29T07:15:16.506823Z",
+        "last_updated": "2025-09-29T07:15:24.240574Z",
         "version": "1.0"
     },
     "signature": "placeholder-signature-here"
