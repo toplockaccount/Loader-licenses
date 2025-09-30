@@ -1,7 +1,7 @@
 {
   "licenses": [
     {
-      "activated": "2025-09-30T09:53:41Z",
+      "activated": "2025-09-30T09:56:51Z",
       "created": "2025-09-22T08:00:00.000Z",
       "current_uses": 0,
       "expires": "2026-09-22T08:00:00.000Z",
@@ -26,7 +26,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2025-09-30T09:53:41Z",
+    "last_updated": "2025-09-30T09:56:51Z",
     "version": "1.0"
   },
   "signature": "placeholder-signature-here"
