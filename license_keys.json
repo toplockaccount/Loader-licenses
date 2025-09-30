@@ -53,7 +53,7 @@
             "created": "2025-09-29T06:11:00.000Z",
             "current_uses": 0,
             "expires": "2026-09-29T06:11:00.000Z",
-            "hwid": "9150085350349357695",
+            "hwid": "",
             "key": "Admin",
             "license_type": "1year",
             "max_uses": 1,
@@ -62,7 +62,7 @@
         }
     ],
     "metadata": {
-        "last_updated": "2025-09-29T16:27:31.129718Z",
+        "last_updated": "2025-09-30T00:52:37.900115Z",
         "version": "1.0"
     },
     "signature": "placeholder-signature-here"
