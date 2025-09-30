@@ -13,18 +13,6 @@
             "username": "Admin"
         },
         {
-            "activated": "2025-09-28T06:39:59Z",
-            "created": "2025-09-27T14:30:00.000Z",
-            "current_uses": 0,
-            "expires": "2025-09-30T14:30:00.000Z",
-            "hwid": "18000002373724492866",
-            "key": "3DAY-NWVXI-1N6VL-2TBX4",
-            "license_type": "3day",
-            "max_uses": 1,
-            "status": "active",
-            "username": "User buy"
-        },
-        {
             "activated": "2025-09-29T08:18:13Z",
             "created": "2025-09-29T06:11:00.000Z",
             "current_uses": 0,
@@ -38,7 +26,7 @@
         }
     ],
     "metadata": {
-        "last_updated": "2025-09-30T07:58:39.575388Z",
+        "last_updated": "2025-09-30T07:58:58.582242Z",
         "version": "1.0"
     },
     "signature": "placeholder-signature-here"
