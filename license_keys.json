@@ -9,7 +9,7 @@
             "key": "Dev",
             "license_type": "1year",
             "max_uses": 1,
-            "status": "blocked",
+            "status": "active",
             "username": "Admin"
         },
         {
@@ -62,7 +62,7 @@
         }
     ],
     "metadata": {
-        "last_updated": "2025-10-01T07:55:50.005184Z",
+        "last_updated": "2025-10-01T07:55:56.740968Z",
         "version": "1.0"
     },
     "signature": "placeholder-signature-here"
