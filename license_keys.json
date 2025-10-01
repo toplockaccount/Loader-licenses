@@ -59,22 +59,10 @@
             "max_uses": 1,
             "status": "active",
             "username": "specterware"
-        },
-        {
-            "activated": "2025-10-01T16:11:00Z",
-            "created": "2025-10-01T09:11:12.000Z",
-            "current_uses": 0,
-            "expires": "2025-10-04T16:11:00.000Z",
-            "hwid": "",
-            "key": "3DAY-NJ7S8-JVCJB-PVXT3",
-            "license_type": "3day",
-            "max_uses": 1,
-            "status": "active",
-            "username": "test"
         }
     ],
     "metadata": {
-        "last_updated": "2025-10-01T09:11:13.659595Z",
+        "last_updated": "2025-10-01T09:11:49.062174Z",
         "version": "1.0"
     },
     "signature": "placeholder-signature-here"
