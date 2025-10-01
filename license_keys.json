@@ -1,69 +1,69 @@
 {
-  "licenses": [
-    {
-      "activated": "2025-09-30T09:56:51Z",
-      "created": "2025-09-22T08:00:00.000Z",
-      "current_uses": 0,
-      "expires": "2026-09-22T08:00:00.000Z",
-      "hwid": "14675496259216686639",
-      "key": "Dev",
-      "license_type": "1year",
-      "max_uses": 1,
-      "status": "active",
-      "username": "Admin"
+    "licenses": [
+        {
+            "activated": "2025-09-30T09:56:51Z",
+            "created": "2025-09-22T08:00:00.000Z",
+            "current_uses": 0,
+            "expires": "2026-09-22T08:00:00.000Z",
+            "hwid": "14675496259216686639",
+            "key": "Dev",
+            "license_type": "1year",
+            "max_uses": 1,
+            "status": "blocked",
+            "username": "Admin"
+        },
+        {
+            "activated": "2025-09-30T12:04:02Z",
+            "created": "2025-09-29T06:11:00.000Z",
+            "current_uses": 0,
+            "expires": "2026-09-29T06:11:00.000Z",
+            "hwid": "8395990321283739407",
+            "key": "Admin",
+            "license_type": "1year",
+            "max_uses": 1,
+            "status": "active",
+            "username": "sw1ftsys"
+        },
+        {
+            "activated": "2025-10-01T02:11:00.000Z",
+            "created": "2025-10-01T02:11:00.000Z",
+            "current_uses": 0,
+            "expires": "2025-10-04T02:11:00.000Z",
+            "hwid": "23215400259216686639",
+            "key": "3DAY-SCBWA-7V00T-E3Y3G",
+            "license_type": "3day",
+            "max_uses": 1,
+            "status": "active",
+            "username": "jalxrxx"
+        },
+        {
+            "activated": "2025-10-01T09:55:00Z",
+            "created": "2025-10-01T02:55:21.000Z",
+            "current_uses": 0,
+            "expires": "2025-10-08T09:55:00.000Z",
+            "hwid": "",
+            "key": "1WEEK-K4VB3-6NEKV-EGNNU",
+            "license_type": "1week",
+            "max_uses": 1,
+            "status": "active",
+            "username": "high1"
+        },
+        {
+            "activated": "2025-10-01T07:35:35Z",
+            "created": "2025-10-01T04:56:17.000Z",
+            "current_uses": 0,
+            "expires": "2025-10-04T11:56:00.000Z",
+            "hwid": "14576069650031805567",
+            "key": "3DAY-WG2BD-WU8XL-YB1Z2",
+            "license_type": "3day",
+            "max_uses": 1,
+            "status": "active",
+            "username": "specterware"
+        }
+    ],
+    "metadata": {
+        "last_updated": "2025-10-01T07:55:50.005184Z",
+        "version": "1.0"
     },
-    {
-      "activated": "2025-09-30T12:04:02Z",
-      "created": "2025-09-29T06:11:00.000Z",
-      "current_uses": 0,
-      "expires": "2026-09-29T06:11:00.000Z",
-      "hwid": "8395990321283739407",
-      "key": "Admin",
-      "license_type": "1year",
-      "max_uses": 1,
-      "status": "active",
-      "username": "sw1ftsys"
-    },
-    {
-      "activated": "2025-10-01T02:11:00.000Z",
-      "created": "2025-10-01T02:11:00.000Z",
-      "current_uses": 0,
-      "expires": "2025-10-04T02:11:00.000Z",
-      "hwid": "23215400259216686639",
-      "key": "3DAY-SCBWA-7V00T-E3Y3G",
-      "license_type": "3day",
-      "max_uses": 1,
-      "status": "active",
-      "username": "jalxrxx"
-    },
-    {
-      "activated": "2025-10-01T09:55:00Z",
-      "created": "2025-10-01T02:55:21.000Z",
-      "current_uses": 0,
-      "expires": "2025-10-08T09:55:00.000Z",
-      "hwid": "",
-      "key": "1WEEK-K4VB3-6NEKV-EGNNU",
-      "license_type": "1week",
-      "max_uses": 1,
-      "status": "active",
-      "username": "high1"
-    },
-    {
-      "activated": "2025-10-01T07:35:35Z",
-      "created": "2025-10-01T04:56:17.000Z",
-      "current_uses": 0,
-      "expires": "2025-10-04T11:56:00.000Z",
-      "hwid": "14576069650031805567",
-      "key": "3DAY-WG2BD-WU8XL-YB1Z2",
-      "license_type": "3day",
-      "max_uses": 1,
-      "status": "active",
-      "username": "specterware"
-    }
-  ],
-  "metadata": {
-    "last_updated": "2025-10-01T07:35:35Z",
-    "version": "1.0"
-  },
-  "signature": "placeholder-signature-here"
+    "signature": "placeholder-signature-here"
 }
