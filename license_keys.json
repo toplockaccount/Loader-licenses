@@ -59,10 +59,22 @@
             "max_uses": 1,
             "status": "active",
             "username": "specterware"
+        },
+        {
+            "activated": "2025-10-02T14:21:00Z",
+            "created": "2025-10-02T07:21:46.000Z",
+            "current_uses": 0,
+            "expires": "2025-10-05T14:21:00.000Z",
+            "hwid": "",
+            "key": "3DAY-DE30R-QS4JA-2FDIK",
+            "license_type": "3day",
+            "max_uses": 1,
+            "status": "active",
+            "username": "tobieralonso"
         }
     ],
     "metadata": {
-        "last_updated": "2025-10-02T04:07:44.542267Z",
+        "last_updated": "2025-10-02T07:21:47.625519Z",
         "version": "1.0"
     },
     "signature": "placeholder-signature-here"
