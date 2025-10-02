@@ -59,10 +59,22 @@
             "max_uses": 1,
             "status": "active",
             "username": "specterware"
+        },
+        {
+            "activated": "2025-10-02T11:07:00Z",
+            "created": "2025-10-02T04:07:31.000Z",
+            "current_uses": 0,
+            "expires": "2025-10-05T11:07:00.000Z",
+            "hwid": "",
+            "key": "3DAY-KMNOC-27O1V-WONQK",
+            "license_type": "3day",
+            "max_uses": 1,
+            "status": "active",
+            "username": "test"
         }
     ],
     "metadata": {
-        "last_updated": "2025-10-02T03:36:24.650132Z",
+        "last_updated": "2025-10-02T04:07:32.928226Z",
         "version": "1.0"
     },
     "signature": "placeholder-signature-here"
