@@ -1,81 +1,81 @@
 {
-    "licenses": [
-        {
-            "activated": "2025-10-03T16:56:00Z",
-            "created": "2025-09-22T08:00:00.000Z",
-            "current_uses": 0,
-            "expires": "2026-09-22T08:00:00.000Z",
-            "hwid": "",
-            "key": "Dev",
-            "license_type": "1year",
-            "max_uses": 1,
-            "status": "active",
-            "username": "Admin"
-        },
-        {
-            "activated": "2025-10-03T08:55:55Z",
-            "created": "2025-09-29T06:11:00.000Z",
-            "current_uses": 0,
-            "expires": "2026-09-29T06:11:00.000Z",
-            "hwid": "2890185618001620364",
-            "key": "Admin",
-            "license_type": "1year",
-            "max_uses": 1,
-            "status": "active",
-            "username": "sw1ftsys"
-        },
-        {
-            "activated": "2025-10-01T08:32:26Z",
-            "created": "2025-10-01T02:55:21.000Z",
-            "current_uses": 0,
-            "expires": "2025-10-08T09:55:00.000Z",
-            "hwid": "8885351048607437596",
-            "key": "1WEEK-K4VB3-6NEKV-EGNNU",
-            "license_type": "1week",
-            "max_uses": 1,
-            "status": "active",
-            "username": "high1"
-        },
-        {
-            "activated": "2025-10-03T06:41:42Z",
-            "created": "2025-10-03T05:29:49.000Z",
-            "current_uses": 0,
-            "expires": "2025-10-06T12:29:00.000Z",
-            "hwid": "",
-            "key": "3DAY-T1V53-OOW70-MEBSC",
-            "license_type": "3day",
-            "max_uses": 1,
-            "status": "active",
-            "username": "userfree1"
-        },
-        {
-            "activated": "2025-10-03T13:09:37Z",
-            "created": "2025-10-03T13:08:22.000Z",
-            "current_uses": 0,
-            "expires": "2025-10-06T20:08:00.000Z",
-            "hwid": "7631484879324479253",
-            "key": "3DAY-TJ7VR-YSUB7-I2B2L",
-            "license_type": "3day",
-            "max_uses": 1,
-            "status": "active",
-            "username": "deknickky"
-        },
-        {
-            "activated": "2025-10-03T16:38:25Z",
-            "created": "2025-10-03T14:59:43.000Z",
-            "current_uses": 0,
-            "expires": "2025-10-06T21:59:00.000Z",
-            "hwid": "9515206560196659903",
-            "key": "3DAY-JCB40-TKCHG-SJTGW",
-            "license_type": "3day",
-            "max_uses": 1,
-            "status": "active",
-            "username": "kiravaldus"
-        }
-    ],
-    "metadata": {
-        "last_updated": "2025-10-03T18:38:18.321581Z",
-        "version": "1.0"
+  "licenses": [
+    {
+      "activated": "2025-10-03T18:38:52Z",
+      "created": "2025-09-22T08:00:00.000Z",
+      "current_uses": 0,
+      "expires": "2026-09-22T08:00:00.000Z",
+      "hwid": "10095746160760530346",
+      "key": "Dev",
+      "license_type": "1year",
+      "max_uses": 1,
+      "status": "active",
+      "username": "Admin"
     },
-    "signature": "placeholder-signature-here"
+    {
+      "activated": "2025-10-03T08:55:55Z",
+      "created": "2025-09-29T06:11:00.000Z",
+      "current_uses": 0,
+      "expires": "2026-09-29T06:11:00.000Z",
+      "hwid": "2890185618001620364",
+      "key": "Admin",
+      "license_type": "1year",
+      "max_uses": 1,
+      "status": "active",
+      "username": "sw1ftsys"
+    },
+    {
+      "activated": "2025-10-01T08:32:26Z",
+      "created": "2025-10-01T02:55:21.000Z",
+      "current_uses": 0,
+      "expires": "2025-10-08T09:55:00.000Z",
+      "hwid": "8885351048607437596",
+      "key": "1WEEK-K4VB3-6NEKV-EGNNU",
+      "license_type": "1week",
+      "max_uses": 1,
+      "status": "active",
+      "username": "high1"
+    },
+    {
+      "activated": "2025-10-03T06:41:42Z",
+      "created": "2025-10-03T05:29:49.000Z",
+      "current_uses": 0,
+      "expires": "2025-10-06T12:29:00.000Z",
+      "hwid": "",
+      "key": "3DAY-T1V53-OOW70-MEBSC",
+      "license_type": "3day",
+      "max_uses": 1,
+      "status": "active",
+      "username": "userfree1"
+    },
+    {
+      "activated": "2025-10-03T13:09:37Z",
+      "created": "2025-10-03T13:08:22.000Z",
+      "current_uses": 0,
+      "expires": "2025-10-06T20:08:00.000Z",
+      "hwid": "7631484879324479253",
+      "key": "3DAY-TJ7VR-YSUB7-I2B2L",
+      "license_type": "3day",
+      "max_uses": 1,
+      "status": "active",
+      "username": "deknickky"
+    },
+    {
+      "activated": "2025-10-03T16:38:25Z",
+      "created": "2025-10-03T14:59:43.000Z",
+      "current_uses": 0,
+      "expires": "2025-10-06T21:59:00.000Z",
+      "hwid": "9515206560196659903",
+      "key": "3DAY-JCB40-TKCHG-SJTGW",
+      "license_type": "3day",
+      "max_uses": 1,
+      "status": "active",
+      "username": "kiravaldus"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2025-10-03T18:38:52Z",
+    "version": "1.0"
+  },
+  "signature": "placeholder-signature-here"
 }
