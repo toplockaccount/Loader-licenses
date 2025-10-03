@@ -83,10 +83,22 @@
             "max_uses": 1,
             "status": "active",
             "username": "deknickky"
+        },
+        {
+            "activated": "2025-10-03T21:59:00Z",
+            "created": "2025-10-03T14:59:43.000Z",
+            "current_uses": 0,
+            "expires": "2025-10-06T21:59:00.000Z",
+            "hwid": "",
+            "key": "3DAY-JCB40-TKCHG-SJTGW",
+            "license_type": "3day",
+            "max_uses": 1,
+            "status": "active",
+            "username": "kiravaldus"
         }
     ],
     "metadata": {
-        "last_updated": "2025-10-03T14:50:55.441294Z",
+        "last_updated": "2025-10-03T14:59:44.784333Z",
         "version": "1.0"
     },
     "signature": "placeholder-signature-here"
