@@ -37,18 +37,6 @@
             "username": "high1"
         },
         {
-            "activated": "2025-10-01T07:35:35Z",
-            "created": "2025-10-01T04:56:17.000Z",
-            "current_uses": 0,
-            "expires": "2025-10-04T11:56:00.000Z",
-            "hwid": "14576069650031805567",
-            "key": "3DAY-WG2BD-WU8XL-YB1Z2",
-            "license_type": "3day",
-            "max_uses": 1,
-            "status": "active",
-            "username": "specterware"
-        },
-        {
             "activated": "2025-10-03T06:41:42Z",
             "created": "2025-10-03T05:29:49.000Z",
             "current_uses": 0,
@@ -86,7 +74,7 @@
         }
     ],
     "metadata": {
-        "last_updated": "2025-10-03T18:37:55.994379Z",
+        "last_updated": "2025-10-03T18:38:07.720050Z",
         "version": "1.0"
     },
     "signature": "placeholder-signature-here"
