@@ -71,10 +71,22 @@
             "max_uses": 1,
             "status": "active",
             "username": "userfree1"
+        },
+        {
+            "activated": "2025-10-03T13:57:00Z",
+            "created": "2025-10-03T06:57:48.000Z",
+            "current_uses": 0,
+            "expires": "2025-11-02T13:57:00.000Z",
+            "hwid": "",
+            "key": "1MONTH-XECNN-C3U96-FF3S6",
+            "license_type": "1month",
+            "max_uses": 1,
+            "status": "active",
+            "username": "Admin2"
         }
     ],
     "metadata": {
-        "last_updated": "2025-10-03T06:54:20.723255Z",
+        "last_updated": "2025-10-03T06:57:50.565749Z",
         "version": "1.0"
     },
     "signature": "placeholder-signature-here"
