@@ -83,10 +83,22 @@
             "max_uses": 1,
             "status": "active",
             "username": "Admin2"
+        },
+        {
+            "activated": "2025-10-03T20:08:00Z",
+            "created": "2025-10-03T13:08:22.000Z",
+            "current_uses": 0,
+            "expires": "2025-10-06T20:08:00.000Z",
+            "hwid": "",
+            "key": "3DAY-TJ7VR-YSUB7-I2B2L",
+            "license_type": "3day",
+            "max_uses": 1,
+            "status": "active",
+            "username": "deknickky"
         }
     ],
     "metadata": {
-        "last_updated": "2025-10-03T12:20:37.359603Z",
+        "last_updated": "2025-10-03T13:08:23.248710Z",
         "version": "1.0"
     },
     "signature": "placeholder-signature-here"
