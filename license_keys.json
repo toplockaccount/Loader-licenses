@@ -29,7 +29,7 @@
             "created": "2025-10-01T02:55:21.000Z",
             "current_uses": 0,
             "expires": "2025-10-08T09:55:00.000Z",
-            "hwid": "8885351048607437596",
+            "hwid": "",
             "key": "1WEEK-K4VB3-6NEKV-EGNNU",
             "license_type": "1week",
             "max_uses": 1,
@@ -98,7 +98,7 @@
         }
     ],
     "metadata": {
-        "last_updated": "2025-10-04T08:47:06.076723Z",
+        "last_updated": "2025-10-04T08:49:18.175936Z",
         "version": "1.0"
     },
     "signature": "placeholder-signature-here"
