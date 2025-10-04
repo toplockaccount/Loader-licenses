@@ -83,22 +83,10 @@
             "max_uses": 1,
             "status": "active",
             "username": "ghooak1"
-        },
-        {
-            "activated": "2025-10-04T15:47:00Z",
-            "created": "2025-10-04T08:47:05.000Z",
-            "current_uses": 0,
-            "expires": "2025-10-11T15:47:00.000Z",
-            "hwid": "",
-            "key": "1WEEK-RLBVV-GN46N-K1KY0",
-            "license_type": "1week",
-            "max_uses": 1,
-            "status": "active",
-            "username": "high01"
         }
     ],
     "metadata": {
-        "last_updated": "2025-10-04T08:49:18.175936Z",
+        "last_updated": "2025-10-04T08:53:09.368968Z",
         "version": "1.0"
     },
     "signature": "placeholder-signature-here"
