@@ -83,10 +83,22 @@
             "max_uses": 1,
             "status": "active",
             "username": "ghooak1"
+        },
+        {
+            "activated": "2025-10-05T16:28:00Z",
+            "created": "2025-10-05T09:28:24.000Z",
+            "current_uses": 0,
+            "expires": "2025-10-12T16:28:00.000Z",
+            "hwid": "",
+            "key": "1WEEK-S0HQD-N5YOR-CTSC7",
+            "license_type": "1week",
+            "max_uses": 1,
+            "status": "active",
+            "username": "apo"
         }
     ],
     "metadata": {
-        "last_updated": "2025-10-05T07:34:30.489893Z",
+        "last_updated": "2025-10-05T09:28:25.153422Z",
         "version": "1.0"
     },
     "signature": "placeholder-signature-here"
