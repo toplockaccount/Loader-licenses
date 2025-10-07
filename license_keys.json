@@ -1,70 +1,82 @@
 {
-  "licenses": [
-    {
-      "activated": "2025-10-03T18:38:52Z",
-      "created": "2025-09-22T08:00:00.000Z",
-      "current_uses": 0,
-      "expires": "2026-09-22T08:00:00.000Z",
-      "hwid": "",
-      "key": "Dev",
-      "license_type": "1year",
-      "max_uses": 1,
-      "status": "active",
-      "username": "Admin"
+    "licenses": [
+        {
+            "activated": "2025-10-03T18:38:52Z",
+            "created": "2025-09-22T08:00:00.000Z",
+            "current_uses": 0,
+            "expires": "2026-09-22T08:00:00.000Z",
+            "hwid": "",
+            "key": "Dev",
+            "license_type": "1year",
+            "max_uses": 1,
+            "status": "active",
+            "username": "Admin"
+        },
+        {
+            "activated": "2025-10-03T08:55:55Z",
+            "created": "2025-09-29T06:11:00.000Z",
+            "current_uses": 0,
+            "expires": "2026-09-29T06:11:00.000Z",
+            "hwid": "",
+            "key": "Admin",
+            "license_type": "1year",
+            "max_uses": 1,
+            "status": "active",
+            "username": "sw1ftsys"
+        },
+        {
+            "activated": "2025-10-04T09:12:48Z",
+            "created": "2025-10-01T02:55:21.000Z",
+            "current_uses": 0,
+            "expires": "2025-10-08T09:55:00.000Z",
+            "hwid": "",
+            "key": "1WEEK-K4VB3-6NEKV-EGNNU",
+            "license_type": "1week",
+            "max_uses": 1,
+            "status": "active",
+            "username": "high1"
+        },
+        {
+            "activated": "2025-10-07T07:13:14Z",
+            "created": "2025-10-04T08:22:13.000Z",
+            "current_uses": 0,
+            "expires": "2025-10-07T15:22:00.000Z",
+            "hwid": "12609702616743530009",
+            "key": "3DAY-2RQ9K-2XS0X-HYKD3",
+            "license_type": "3day",
+            "max_uses": 1,
+            "status": "active",
+            "username": "ghooak1"
+        },
+        {
+            "activated": "2025-10-05T10:07:46Z",
+            "created": "2025-10-05T09:28:24.000Z",
+            "current_uses": 0,
+            "expires": "2025-10-12T16:28:00.000Z",
+            "hwid": "",
+            "key": "1WEEK-S0HQD-N5YOR-CTSC7",
+            "license_type": "1week",
+            "max_uses": 1,
+            "status": "active",
+            "username": "apo"
+        },
+        {
+            "activated": "2025-10-07T16:05:00Z",
+            "created": "2025-10-07T09:06:00.000Z",
+            "current_uses": 0,
+            "expires": "2025-10-10T16:05:00.000Z",
+            "hwid": "",
+            "key": "3DAY-465I2-7R7L8-HQFPP",
+            "license_type": "3day",
+            "max_uses": 1,
+            "status": "active",
+            "username": "tawaneua"
+        }
+    ],
+    "metadata": {
+        "auto_cleanup_count": 3,
+        "last_updated": "2025-10-07T09:06:02.455466Z",
+        "version": "1.0"
     },
-    {
-      "activated": "2025-10-03T08:55:55Z",
-      "created": "2025-09-29T06:11:00.000Z",
-      "current_uses": 0,
-      "expires": "2026-09-29T06:11:00.000Z",
-      "hwid": "",
-      "key": "Admin",
-      "license_type": "1year",
-      "max_uses": 1,
-      "status": "active",
-      "username": "sw1ftsys"
-    },
-    {
-      "activated": "2025-10-04T09:12:48Z",
-      "created": "2025-10-01T02:55:21.000Z",
-      "current_uses": 0,
-      "expires": "2025-10-08T09:55:00.000Z",
-      "hwid": "",
-      "key": "1WEEK-K4VB3-6NEKV-EGNNU",
-      "license_type": "1week",
-      "max_uses": 1,
-      "status": "active",
-      "username": "high1"
-    },
-    {
-      "activated": "2025-10-07T07:13:14Z",
-      "created": "2025-10-04T08:22:13.000Z",
-      "current_uses": 0,
-      "expires": "2025-10-07T15:22:00.000Z",
-      "hwid": "12609702616743530009",
-      "key": "3DAY-2RQ9K-2XS0X-HYKD3",
-      "license_type": "3day",
-      "max_uses": 1,
-      "status": "active",
-      "username": "ghooak1"
-    },
-    {
-      "activated": "2025-10-05T10:07:46Z",
-      "created": "2025-10-05T09:28:24.000Z",
-      "current_uses": 0,
-      "expires": "2025-10-12T16:28:00.000Z",
-      "hwid": "",
-      "key": "1WEEK-S0HQD-N5YOR-CTSC7",
-      "license_type": "1week",
-      "max_uses": 1,
-      "status": "active",
-      "username": "apo"
-    }
-  ],
-  "metadata": {
-    "auto_cleanup_count": 3,
-    "last_updated": "2025-10-07T07:13:14Z",
-    "version": "1.0"
-  },
-  "signature": "placeholder-signature-here"
+    "signature": "placeholder-signature-here"
 }
