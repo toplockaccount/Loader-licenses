@@ -53,7 +53,7 @@
             "created": "2025-10-07T09:06:00.000Z",
             "current_uses": 0,
             "expires": "2025-10-10T16:05:00.000Z",
-            "hwid": "7936158272640015073",
+            "hwid": "",
             "key": "3DAY-465I2-7R7L8-HQFPP",
             "license_type": "3day",
             "max_uses": 1,
@@ -63,7 +63,7 @@
     ],
     "metadata": {
         "auto_cleanup_count": 4,
-        "last_updated": "2025-10-08T05:05:07.782242Z",
+        "last_updated": "2025-10-08T05:05:15.946288Z",
         "version": "1.0"
     },
     "signature": "placeholder-signature-here"
