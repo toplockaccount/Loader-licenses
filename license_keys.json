@@ -1,70 +1,70 @@
 {
-    "licenses": [
-        {
-            "activated": "2025-10-07T14:22:13Z",
-            "created": "2025-09-22T08:00:00.000Z",
-            "current_uses": 0,
-            "expires": "2026-09-22T08:00:00.000Z",
-            "hwid": "",
-            "key": "Dev",
-            "license_type": "1year",
-            "max_uses": 1,
-            "status": "active",
-            "username": "Admin"
-        },
-        {
-            "activated": "2025-10-03T08:55:55Z",
-            "created": "2025-09-29T06:11:00.000Z",
-            "current_uses": 0,
-            "expires": "2026-09-29T06:11:00.000Z",
-            "hwid": "",
-            "key": "Admin",
-            "license_type": "1year",
-            "max_uses": 1,
-            "status": "active",
-            "username": "sw1ftsys"
-        },
-        {
-            "activated": "2025-10-07T09:17:18Z",
-            "created": "2025-10-01T02:55:21.000Z",
-            "current_uses": 0,
-            "expires": "2025-10-08T09:55:00.000Z",
-            "hwid": "",
-            "key": "1WEEK-K4VB3-6NEKV-EGNNU",
-            "license_type": "1week",
-            "max_uses": 1,
-            "status": "active",
-            "username": "high1"
-        },
-        {
-            "activated": "2025-10-05T10:07:46Z",
-            "created": "2025-10-05T09:28:24.000Z",
-            "current_uses": 0,
-            "expires": "2025-10-12T16:28:00.000Z",
-            "hwid": "",
-            "key": "1WEEK-S0HQD-N5YOR-CTSC7",
-            "license_type": "1week",
-            "max_uses": 1,
-            "status": "active",
-            "username": "apo"
-        },
-        {
-            "activated": "2025-10-07T09:41:36Z",
-            "created": "2025-10-07T09:06:00.000Z",
-            "current_uses": 0,
-            "expires": "2025-10-10T16:05:00.000Z",
-            "hwid": "",
-            "key": "3DAY-465I2-7R7L8-HQFPP",
-            "license_type": "3day",
-            "max_uses": 1,
-            "status": "active",
-            "username": "tawaneua"
-        }
-    ],
-    "metadata": {
-        "auto_cleanup_count": 4,
-        "last_updated": "2025-10-08T05:05:15.946288Z",
-        "version": "1.0"
+  "licenses": [
+    {
+      "activated": "2025-10-07T14:22:13Z",
+      "created": "2025-09-22T08:00:00.000Z",
+      "current_uses": 0,
+      "expires": "2026-09-22T08:00:00.000Z",
+      "hwid": "",
+      "key": "Dev",
+      "license_type": "1year",
+      "max_uses": 1,
+      "status": "active",
+      "username": "Admin"
     },
-    "signature": "placeholder-signature-here"
+    {
+      "activated": "2025-10-09T06:26:06Z",
+      "created": "2025-09-29T06:11:00.000Z",
+      "current_uses": 0,
+      "expires": "2026-09-29T06:11:00.000Z",
+      "hwid": "9236399950627526896",
+      "key": "Admin",
+      "license_type": "1year",
+      "max_uses": 1,
+      "status": "active",
+      "username": "sw1ftsys"
+    },
+    {
+      "activated": "2025-10-07T09:17:18Z",
+      "created": "2025-10-01T02:55:21.000Z",
+      "current_uses": 0,
+      "expires": "2025-10-08T09:55:00.000Z",
+      "hwid": "",
+      "key": "1WEEK-K4VB3-6NEKV-EGNNU",
+      "license_type": "1week",
+      "max_uses": 1,
+      "status": "active",
+      "username": "high1"
+    },
+    {
+      "activated": "2025-10-05T10:07:46Z",
+      "created": "2025-10-05T09:28:24.000Z",
+      "current_uses": 0,
+      "expires": "2025-10-12T16:28:00.000Z",
+      "hwid": "",
+      "key": "1WEEK-S0HQD-N5YOR-CTSC7",
+      "license_type": "1week",
+      "max_uses": 1,
+      "status": "active",
+      "username": "apo"
+    },
+    {
+      "activated": "2025-10-07T09:41:36Z",
+      "created": "2025-10-07T09:06:00.000Z",
+      "current_uses": 0,
+      "expires": "2025-10-10T16:05:00.000Z",
+      "hwid": "",
+      "key": "3DAY-465I2-7R7L8-HQFPP",
+      "license_type": "3day",
+      "max_uses": 1,
+      "status": "active",
+      "username": "tawaneua"
+    }
+  ],
+  "metadata": {
+    "auto_cleanup_count": 4,
+    "last_updated": "2025-10-09T06:26:06Z",
+    "version": "1.0"
+  },
+  "signature": "placeholder-signature-here"
 }
