@@ -37,11 +37,11 @@
       "username": "high1"
     },
     {
-      "activated": "2025-10-05T10:07:46Z",
+      "activated": "2025-10-10T07:55:16Z",
       "created": "2025-10-05T09:28:24.000Z",
       "current_uses": 0,
       "expires": "2025-10-12T16:28:00.000Z",
-      "hwid": "",
+      "hwid": "13934046895321217058",
       "key": "1WEEK-S0HQD-N5YOR-CTSC7",
       "license_type": "1week",
       "max_uses": 1,
@@ -63,7 +63,7 @@
   ],
   "metadata": {
     "auto_cleanup_count": 4,
-    "last_updated": "2025-10-09T18:07:37Z",
+    "last_updated": "2025-10-10T07:55:16Z",
     "version": "1.0"
   },
   "signature": "placeholder-signature-here"
