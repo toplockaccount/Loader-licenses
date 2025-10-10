@@ -1,11 +1,11 @@
 {
   "licenses": [
     {
-      "activated": "2025-10-10T09:54:14Z",
+      "activated": "2025-10-10T11:47:38Z",
       "created": "2025-09-22T08:00:00.000Z",
       "current_uses": 0,
       "expires": "2026-09-22T08:00:00.000Z",
-      "hwid": "",
+      "hwid": "13934046895321217058",
       "key": "Dev",
       "license_type": "1year",
       "max_uses": 1,
@@ -63,7 +63,7 @@
   ],
   "metadata": {
     "auto_cleanup_count": 4,
-    "last_updated": "2025-10-10T11:39:57Z",
+    "last_updated": "2025-10-10T11:47:38Z",
     "version": "1.0"
   },
   "signature": "placeholder-signature-here"
