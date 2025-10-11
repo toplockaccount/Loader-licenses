@@ -47,11 +47,23 @@
             "max_uses": 1,
             "status": "active",
             "username": "test"
+        },
+        {
+            "activated": "2025-10-11T13:10:00Z",
+            "created": "2025-10-11T06:10:46.000Z",
+            "current_uses": 0,
+            "expires": "2025-10-14T13:10:00.000Z",
+            "hwid": "",
+            "key": "3DAY-FVYZW-FL3IQ-WAUPN",
+            "license_type": "3day",
+            "max_uses": 1,
+            "status": "active",
+            "username": "amarinsixth"
         }
     ],
     "metadata": {
         "auto_cleanup_count": 6,
-        "last_updated": "2025-10-11T06:10:35.994428Z",
+        "last_updated": "2025-10-11T06:10:47.957314Z",
         "version": "1.0"
     },
     "signature": "placeholder-signature-here"
