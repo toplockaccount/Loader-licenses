@@ -35,11 +35,23 @@
             "max_uses": 1,
             "status": "active",
             "username": "notingforevery"
+        },
+        {
+            "activated": "2025-10-15T21:47:00Z",
+            "created": "2025-10-15T14:48:07.000Z",
+            "current_uses": 0,
+            "expires": "2025-10-22T21:47:00.000Z",
+            "hwid": "",
+            "key": "1WEEK-BNDUG-39PRX-W200F",
+            "license_type": "1week",
+            "max_uses": 1,
+            "status": "active",
+            "username": "jung__"
         }
     ],
     "metadata": {
         "auto_cleanup_count": 8,
-        "last_updated": "2025-10-15T09:09:19.707528Z",
+        "last_updated": "2025-10-15T14:48:09.474313Z",
         "version": "1.0"
     },
     "signature": "placeholder-signature-here"
