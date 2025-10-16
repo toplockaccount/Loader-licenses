@@ -53,7 +53,7 @@
             "created": "2025-10-15T14:57:26.000Z",
             "current_uses": 0,
             "expires": "2025-10-18T21:57:00.000Z",
-            "hwid": "15973691381341598946",
+            "hwid": "",
             "key": "3DAY-8HXX6-NC6AQ-0GEJH",
             "license_type": "3day",
             "max_uses": 1,
@@ -75,7 +75,7 @@
     ],
     "metadata": {
         "auto_cleanup_count": 8,
-        "last_updated": "2025-10-16T18:25:15.866919Z",
+        "last_updated": "2025-10-16T18:25:17.739867Z",
         "version": "1.0"
     },
     "signature": "placeholder-signature-here"
