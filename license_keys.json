@@ -73,11 +73,11 @@
       "username": "high.1"
     },
     {
-      "activated": "2025-10-18T10:49:37Z",
+      "activated": "2025-10-18T15:15:29Z",
       "created": "2025-10-16T18:45:23.000Z",
       "current_uses": 0,
       "expires": "2025-10-20T01:45:00.000Z",
-      "hwid": "",
+      "hwid": "6478781246237028412",
       "key": "3DAY-JBKPS-D4MOQ-2KRM6",
       "license_type": "3day",
       "max_uses": 1,
@@ -99,7 +99,7 @@
   ],
   "metadata": {
     "auto_cleanup_count": 8,
-    "last_updated": "2025-10-18T10:49:37Z",
+    "last_updated": "2025-10-18T15:15:29Z",
     "version": "1.0"
   },
   "signature": "placeholder-signature-here"
