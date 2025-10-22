@@ -5,7 +5,7 @@
             "created": "2025-09-22T08:00:00.000Z",
             "current_uses": 0,
             "expires": "2026-09-22T08:00:00.000Z",
-            "hwid": "14492829365390633706",
+            "hwid": "",
             "key": "Dev",
             "license_type": "1year",
             "max_uses": 1,
@@ -63,7 +63,7 @@
     ],
     "metadata": {
         "auto_cleanup_count": 11,
-        "last_updated": "2025-10-22T10:42:35.029296Z",
+        "last_updated": "2025-10-22T10:43:03.770412Z",
         "version": "1.0"
     },
     "signature": "placeholder-signature-here"
