@@ -1,82 +1,82 @@
 {
-    "licenses": [
-        {
-            "activated": "2025-10-22T12:08:43Z",
-            "created": "2025-09-22T08:00:00.000Z",
-            "current_uses": 0,
-            "expires": "2026-09-22T08:00:00.000Z",
-            "hwid": "14492829365390633706",
-            "key": "Dev",
-            "license_type": "1year",
-            "max_uses": 1,
-            "status": "active",
-            "username": "Admin"
-        },
-        {
-            "activated": "2025-10-09T07:18:29Z",
-            "created": "2025-09-29T06:11:00.000Z",
-            "current_uses": 0,
-            "expires": "2026-09-29T06:11:00.000Z",
-            "hwid": "",
-            "key": "Admin",
-            "license_type": "1year",
-            "max_uses": 1,
-            "status": "active",
-            "username": "sw1ftsys"
-        },
-        {
-            "activated": "2025-10-17T05:39:55Z",
-            "created": "2025-10-17T05:33:35.000Z",
-            "current_uses": 0,
-            "expires": "2025-10-24T12:33:00.000Z",
-            "hwid": "",
-            "key": "1WEEK-QLYC3-6ECK8-KO4ZX",
-            "license_type": "1week",
-            "max_uses": 1,
-            "status": "active",
-            "username": "xeviz12333"
-        },
-        {
-            "activated": "2025-10-17T05:39:55Z",
-            "created": "2025-10-17T05:33:35.000Z",
-            "current_uses": 0,
-            "expires": "2025-10-24T12:33:00.000Z",
-            "hwid": "",
-            "key": "FREE-K1W42",
-            "license_type": "1week",
-            "max_uses": 1,
-            "status": "active",
-            "username": "Free user [1] 2 hours"
-        },
-        {
-            "activated": "2025-10-17T05:39:55Z",
-            "created": "2025-10-17T05:33:35.000Z",
-            "current_uses": 0,
-            "expires": "2025-10-24T12:33:00.000Z",
-            "hwid": "",
-            "key": "FREE-P5V32",
-            "license_type": "1week",
-            "max_uses": 1,
-            "status": "active",
-            "username": "Free user [2] 2 hours"
-        },
-        {
-            "activated": "2025-10-17T05:39:55Z",
-            "created": "2025-10-17T05:33:35.000Z",
-            "current_uses": 0,
-            "expires": "2025-10-24T12:33:00.000Z",
-            "hwid": "",
-            "key": "FREE-O4B1B",
-            "license_type": "1week",
-            "max_uses": 1,
-            "status": "active",
-            "username": "Free user [3] 2 hours"
-        }
-    ],
-    "metadata": {
-        "auto_cleanup_count": 13,
-        "last_updated": "2025-10-23T14:35:56.033588Z",
-        "version": "1.0"
+  "licenses": [
+    {
+      "activated": "2025-10-22T12:08:43Z",
+      "created": "2025-09-22T08:00:00.000Z",
+      "current_uses": 0,
+      "expires": "2026-09-22T08:00:00.000Z",
+      "hwid": "14492829365390633706",
+      "key": "Dev",
+      "license_type": "1year",
+      "max_uses": 1,
+      "status": "active",
+      "username": "Admin"
     },
-    "signature": "placeholder-signature-here"
+    {
+      "activated": "2025-10-23T14:48:15Z",
+      "created": "2025-09-29T06:11:00.000Z",
+      "current_uses": 0,
+      "expires": "2026-09-29T06:11:00.000Z",
+      "hwid": "2890185618001620364",
+      "key": "Admin",
+      "license_type": "1year",
+      "max_uses": 1,
+      "status": "active",
+      "username": "sw1ftsys"
+    },
+    {
+      "activated": "2025-10-17T05:39:55Z",
+      "created": "2025-10-17T05:33:35.000Z",
+      "current_uses": 0,
+      "expires": "2025-10-24T12:33:00.000Z",
+      "hwid": "",
+      "key": "1WEEK-QLYC3-6ECK8-KO4ZX",
+      "license_type": "1week",
+      "max_uses": 1,
+      "status": "active",
+      "username": "xeviz12333"
+    },
+    {
+      "activated": "2025-10-17T05:39:55Z",
+      "created": "2025-10-17T05:33:35.000Z",
+      "current_uses": 0,
+      "expires": "2025-10-24T12:33:00.000Z",
+      "hwid": "",
+      "key": "FREE-K1W42",
+      "license_type": "1week",
+      "max_uses": 1,
+      "status": "active",
+      "username": "Free user [1] 2 hours"
+    },
+    {
+      "activated": "2025-10-17T05:39:55Z",
+      "created": "2025-10-17T05:33:35.000Z",
+      "current_uses": 0,
+      "expires": "2025-10-24T12:33:00.000Z",
+      "hwid": "",
+      "key": "FREE-P5V32",
+      "license_type": "1week",
+      "max_uses": 1,
+      "status": "active",
+      "username": "Free user [2] 2 hours"
+    },
+    {
+      "activated": "2025-10-17T05:39:55Z",
+      "created": "2025-10-17T05:33:35.000Z",
+      "current_uses": 0,
+      "expires": "2025-10-24T12:33:00.000Z",
+      "hwid": "",
+      "key": "FREE-O4B1B",
+      "license_type": "1week",
+      "max_uses": 1,
+      "status": "active",
+      "username": "Free user [3] 2 hours"
+    }
+  ],
+  "metadata": {
+    "auto_cleanup_count": 13,
+    "last_updated": "2025-10-23T14:48:15Z",
+    "version": "1.0"
+  },
+  "signature": "placeholder-signature-here"
 }
