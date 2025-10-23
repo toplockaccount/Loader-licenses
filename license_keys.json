@@ -35,6 +35,42 @@
             "max_uses": 1,
             "status": "active",
             "username": "xeviz12333"
+        },
+        {
+            "activated": "2025-10-17T05:39:55Z",
+            "created": "2025-10-17T05:33:35.000Z",
+            "current_uses": 0,
+            "expires": "2025-10-24T12:33:00.000Z",
+            "hwid": "",
+            "key": "FREE-K1W42",
+            "license_type": "1week",
+            "max_uses": 1,
+            "status": "active",
+            "username": "Free user [1] 2 hours"
+        },
+        {
+            "activated": "2025-10-17T05:39:55Z",
+            "created": "2025-10-17T05:33:35.000Z",
+            "current_uses": 0,
+            "expires": "2025-10-24T12:33:00.000Z",
+            "hwid": "",
+            "key": "FREE-P5V32",
+            "license_type": "1week",
+            "max_uses": 1,
+            "status": "active",
+            "username": "Free user [2] 2 hours"
+        },
+        {
+            "activated": "2025-10-17T05:39:55Z",
+            "created": "2025-10-17T05:33:35.000Z",
+            "current_uses": 0,
+            "expires": "2025-10-24T12:33:00.000Z",
+            "hwid": "",
+            "key": "FREE-O4B1B",
+            "license_type": "1week",
+            "max_uses": 1,
+            "status": "active",
+            "username": "Free user [3] 2 hours"
         }
     ],
     "metadata": {
