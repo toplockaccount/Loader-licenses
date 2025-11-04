@@ -5,12 +5,12 @@
       "created": "2025-09-22T08:00:00.000Z",
       "current_uses": 0,
       "expires": "2026-09-22T08:00:00.000Z",
-      "hwid": "14330690663133939690",
+      "hwid": "",
       "key": "Dev",
       "license_type": "1year",
       "max_uses": 1,
       "status": "active",
-      "username": "Admin"
+      "username": "Developer"
     },
     {
       "activated": "2025-10-27T10:59:21Z",
