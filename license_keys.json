@@ -1,40 +1,16 @@
 {
   "licenses": [
     {
-      "activated": "2025-11-04T10:19:55Z",
-      "created": "2025-09-22T08:00:00.000Z",
+      "activated": "soon",
+      "created": "soon",
       "current_uses": 0,
-      "expires": "2026-09-22T08:00:00.000Z",
-      "hwid": "14492829365390633706",
-      "key": "Dev",
-      "license_type": "1year",
+      "expires": "soon",
+      "hwid": "soon",
+      "key": "offline",
+      "license_type": "soon",
       "max_uses": 1,
       "status": "active",
-      "username": "Developer"
-    },
-    {
-      "activated": "2025-10-27T10:59:21Z",
-      "created": "2025-09-29T06:11:00.000Z",
-      "current_uses": 0,
-      "expires": "2026-09-29T06:11:00.000Z",
-      "hwid": "",
-      "key": "Admin",
-      "license_type": "1year",
-      "max_uses": 1,
-      "status": "active",
-      "username": "sw1ftsys"
-    },
-    {
-      "activated": "2025-10-27T20:33:00Z",
-      "created": "2025-10-27T13:35:04.000Z",
-      "current_uses": 0,
-      "expires": "2025-11-03T20:33:00.000Z",
-      "hwid": "",
-      "key": "1WEEK-WJ2WF-70BHF-LLYEO",
-      "license_type": "1week",
-      "max_uses": 1,
-      "status": "active",
-      "username": "high1"
+      "username": "Developer For Admin"
     }
   ],
   "metadata": {
